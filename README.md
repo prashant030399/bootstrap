@@ -1,1 +1,1 @@
-# bootstrap  boot strap
+This repository contains a collection of htmt files with bootstrap. Each HTML file serves a specific purpose and contributes to the overall functionality of this repository. This README provides an overview of all the HTML file, the use  of each file.
